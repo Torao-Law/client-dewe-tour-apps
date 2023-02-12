@@ -4,25 +4,25 @@
             "_id": "1",
             "name": "Best Price Guarantee",
             "description": "A small river named Duren flows by their place and supplies",
-            "image": "../icon/img1.png"
+            "image": "../images/icon/img1.png"
         },
         {
             "_id": "2",
             "name": "Travellers Love Us",
             "description": "A small river named Duren flows by their place and supplies",
-            "image": "../icon/img2.png"
+            "image": "../images/icon/img2.png"
         },
         {
             "_id": "3",
             "name": "Best Travel Agent",
             "description": "A small river named Duren flows by their place and supplies",
-            "image": "../icon/img3.png"
+            "image": "../images/icon/img3.png"
         },
         {
             "_id": "4",
             "name": "Our Dedicated Support",
             "description": "A small river named Duren flows by their place and supplies",
-            "image": "../icon/img4.png"
+            "image": "../images/icon/img4.png"
         }
     ]
 }
